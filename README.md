@@ -160,6 +160,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 
 ### Business & Marketing
 
+- [backlink-guard](https://github.com/zhuyansen/backlink-guard) - Checks a link source (directory, awesome list, guest-post site) before you submit your site to it and gives each site an action (skip, look first, free only, low value or submit) with the evidence, against Google's link spam policies; also verifies the listing once it is live and audits your own backlinks. The page checks are free; paid signals need a Glasser or AIsa API key. *By [@zhuyansen](https://github.com/zhuyansen)*
 - [Brand Build Skills](https://github.com/rampstackco/claude-skills) - 59-skill library covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and research. Stack-agnostic with an Ahrefs MCP-powered SEO audit suite. Includes a meta-skill for writing your own. *By [@rampstackco](https://github.com/rampstackco)*
 - [Brand Guidelines](./brand-guidelines/) - Applies Anthropic's official brand colors and typography to artifacts for consistent visual identity and professional design standards.
 - [Competitive Ads Extractor](./competitive-ads-extractor/) - Extracts and analyzes competitors' ads from ad libraries to understand messaging and creative approaches that resonate.
